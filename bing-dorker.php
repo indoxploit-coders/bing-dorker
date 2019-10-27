@@ -44,3 +44,5 @@ if(isset($argv[1])) {
 	}
 }
 ?>
+
+# Thanks
